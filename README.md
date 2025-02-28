@@ -1,5 +1,13 @@
 <<<<<<< HEAD
-# Tazkify
+# Tazkify (demo project)
+
+Author: Earl Lamier
+Description: Angular web project using Angular CLI and bootstrap
+Requirements: Humber Polytechnic
+Host: Vercel
+contact: earlblamier@gmail.com
+version: 1.0
+Published: 2025 February 27
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
 
