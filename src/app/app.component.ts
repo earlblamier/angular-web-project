@@ -7,6 +7,7 @@ import { CardComponent } from './card/card.component';
 import { MainContentComponent } from "./main-content/main-content.component";
 
 @Component({
+  standalone: true, // latest Angular version
   selector: 'app-root',
   imports: [RouterOutlet, 
     HeaderComponent, 
