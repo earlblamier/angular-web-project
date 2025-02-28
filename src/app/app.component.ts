@@ -8,7 +8,12 @@ import { MainContentComponent } from "./main-content/main-content.component";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, HeaderComponent, FooterComponent, IconGridComponent, CardComponent, MainContentComponent],
+  imports: [RouterOutlet, 
+    HeaderComponent, 
+    FooterComponent, 
+    IconGridComponent, 
+    CardComponent, 
+    MainContentComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'] // Corrected property name
 })
