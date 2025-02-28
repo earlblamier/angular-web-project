@@ -6,3 +6,24 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+
+/* filepath: /d:/projects/Angular/tazkify/src/app/main-content/main-content.component.scss */
+.btn-outline-primary {
+    color: #07775e; /* Change this to your desired button color */
+    border-color: #07775e;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #07785c;
+    color: #fff;
+  }
+  
+  .btn-primary {
+    background-color: #07775e; /* Change this to your desired button color */
+    border-color: #07775e;
+  }
+  
+  .btn-primary:hover {
+    background-color: #07785c;
+    border-color: #07785c;
+  }
