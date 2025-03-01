@@ -1,12 +1,11 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   standalone: true, // latest Angular version
   selector: 'app-card',
-  imports: [],
   templateUrl: './card.component.html',
-  styleUrl: './card.component.scss'
+  styleUrls: ['./card.component.scss'] // Corrected property name
 })
 export class CardComponent {
-
+  @Input() message!: string; // receives data from parent component app
 }

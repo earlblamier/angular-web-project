@@ -1,3 +1,14 @@
+/**
+ * @file Main component of the Tazkify application.
+ * @description This file contains the main component of the Tazkify application, which serves as the root component.
+ * @version 1.0.0
+ * @date February 28, 2025
+ * @author Earl Lamier
+ * 
+ * Full Stack .NET Developer Program - Humber
+ * Project: Angular Web Project
+ */
+
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { HeaderComponent } from './header/header.component';
@@ -20,4 +31,5 @@ import { MainContentComponent } from "./main-content/main-content.component";
 })
 export class AppComponent {
   title = 'tazkify';
+  cardMessage = 'Empowering Communities';
 }
