@@ -9,17 +9,34 @@
 }
 
 
-.custom-btn-primary {
+.custom-btn-primary-light {
     background-color: white; /* Bootstrap's primary blue color */
     color: #07775e; /* Text color */
-    border: none; /* Optional: to remove the default border */
+    border: #07775e; /* Optional: to remove the default border */
     padding: 10px 20px; /* Optional: to give the button padding */
     font-size: 16px; /* Optional: to adjust font size */
     border-radius: 5px; /* Optional: to round the corners */
 }
 
-.custom-btn-primary:hover {
+.custom-btn-primary-light:hover {
     background-color: #fac12b; /* Replace with your desired hover background color */
     border-color: #fac12b; /* Replace with your desired hover border color */
     color: white; /* Replace with your desired hover text color */
     }
+
+
+    
+.custom-btn-primary-dark {
+    background-color: #07775e; /* Bootstrap's primary blue color */
+    color: white; /* Text color */
+    border: #07775e; /* Optional: to remove the default border */
+    padding: 10px 20px; /* Optional: to give the button padding */
+    font-size: 16px; /* Optional: to adjust font size */
+    border-radius: 5px; /* Optional: to round the corners */
+}
+
+.custom-btn-primary-dark:hover {
+    background-color: #fac12b; /* Replace with your desired hover background color */
+    border-color: #fac12b; /* Replace with your desired hover border color */
+    color: white; /* Replace with your desired hover text color */
+}

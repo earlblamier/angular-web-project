@@ -21,9 +21,21 @@
   .btn-primary {
     background-color: #07775e; /* Change this to your desired button color */
     border-color: #07775e;
+    ;
   }
   
   .btn-primary:hover {
-    background-color: #07785c;
-    border-color: #07785c;
+    background-color: #fac12b;
+    border-color: #fac12b;
   }
+
+  /* Override Bootstrap's btn-outline-secondary class */
+.btn-outline-secondary {
+  color: #07775e; /* Change this to your desired button color */
+  border-color: #07775e;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #fac12b;
+  color: #fff;
+}
