@@ -1,0 +1,192 @@
+[33mcommit a27f009869fefe9742bf0a807d3d02324b8ee0f7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sun Mar 2 14:58:58 2025 -0500
+
+    update color fix social section and experiment with global css
+
+[33mcommit 757c5faaf944f6b6e952dd7ce3f114cad35dffcf[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sun Mar 2 02:34:03 2025 -0500
+
+    update button colors
+
+[33mcommit d16ddb45e5b5d675152cdf82b39997eb503990e6[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sun Mar 2 00:10:15 2025 -0500
+
+    update footer
+
+[33mcommit 61f3a5c795dce5b3b14d502f4e41c93774c62763[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sat Mar 1 23:29:57 2025 -0500
+
+    update logo location
+
+[33mcommit 0bb0b36acd28cbe03a8893306ca5750e15b28872[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sat Mar 1 23:28:22 2025 -0500
+
+    update icon grid text
+
+[33mcommit c8852b5a1836a480b937c0079300353b1e9c024e[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sat Mar 1 23:03:16 2025 -0500
+
+    installe bootstrap icons
+
+[33mcommit 224b26064cb04897dfb8295907ed81da9d1ba204[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sat Mar 1 22:49:06 2025 -0500
+
+    clean files like images outside folder
+
+[33mcommit 8fb18689b3c046d7185d2ec7d7af4dd3389d2587[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sat Mar 1 16:20:43 2025 -0500
+
+    add section with new icon add
+
+[33mcommit 00fffbcd7621c0094cb534b704caab7acab970d3[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sat Mar 1 13:13:10 2025 -0500
+
+    update cards
+
+[33mcommit ae28860a9797a6fbf2c38aaaa46a0629b2869c38[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Sat Mar 1 13:09:03 2025 -0500
+
+    fix assets images json and add images
+
+[33mcommit d9868ba7fd4f015e890847492fa6f2962044c74c[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 20:34:11 2025 -0500
+
+    update footer
+
+[33mcommit 19374aff593549e970d5358aeae7f805df0bb52f[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 20:16:45 2025 -0500
+
+    use input message in cards and added author info
+
+[33mcommit 2c290e05f4f0eacafa074048701aaf0d237fbf0e[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 02:41:29 2025 -0500
+
+    container and button update
+
+[33mcommit ad00592bb951dc6fcc93b463e1c97d071ea8e2b8[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 01:09:30 2025 -0500
+
+    update readme
+
+[33mcommit de9d6bd59a7c3ac0e989ef8cf5b9db76a7cd9e7b[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 00:53:33 2025 -0500
+
+    update main colors
+
+[33mcommit 4199bd6438c431d4afbf37fe548356a1e56a49a5[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 00:47:48 2025 -0500
+
+    change to standalone
+
+[33mcommit a91ddc4df7c76f41b9ba5b60db0e759663abee97[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 00:34:52 2025 -0500
+
+    cards updat
+
+[33mcommit 01983e494c6610f118fb705097e3670ba4168c2d[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 00:32:58 2025 -0500
+
+    added divider
+
+[33mcommit 171fe3b35e510f50031ffc8e673a66a91613e3a8[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 00:20:24 2025 -0500
+
+    update link image
+
+[33mcommit 469ceb7e6b931951d2f3bd5a3b146b862f4a5e4f[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Fri Feb 28 00:15:07 2025 -0500
+
+    add new ad image updated footer and new main
+
+[33mcommit 38889daddf8084c1980d9adca3b481cbe79e715d[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Thu Feb 27 23:24:16 2025 -0500
+
+    updated bg image
+
+[33mcommit ab2523fffd1968be474c6b6854800dc65733e186[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Thu Feb 27 23:02:37 2025 -0500
+
+    add image background
+
+[33mcommit a67a118e42f11abc5478a825593c1a1352bab94c[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Thu Feb 27 22:04:16 2025 -0500
+
+    Updated readme and main page
+
+[33mcommit deefc0f2530870bc5adf61600f23580443d0f967[m
+Merge: 802426c fb01848
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Thu Feb 27 21:44:26 2025 -0500
+
+    resolved readme
+
+[33mcommit 802426cb92589a4493abc32d54ace9717594717c[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Thu Feb 27 21:40:25 2025 -0500
+
+    fixed component imports
+
+[33mcommit be4e019b44697a6078aab0e2efb248b11bfdb072[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Thu Feb 27 21:22:18 2025 -0500
+
+    Resolved merge conflicts but deleted master
+
+[33mcommit e3f3de5171a64be5df53f0d8a642dd4cd1231d2b[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Thu Feb 27 20:04:33 2025 -0500
+
+    Install Angular CLI
+
+[33mcommit 49f7e654fa5a90a0f057f0af9c08f9e568641a39[m
+Author: Earl Lamier <earlblamier@gmail.com>
+Date:   Thu Feb 27 19:43:37 2025 -0500
+
+    Initial commit
+
+[33mcommit fb0184819657625dee883502f4df2ecac527f8eb[m
+Author: Earl Lamier <77307962+earlblamier@users.noreply.github.com>
+Date:   Thu Feb 27 03:50:51 2025 -0500
+
+    Rename tazkify logo 1.jpg to tazkify-logo-1.jpg
+
+[33mcommit e38fb75b7f6e0fb497ca0ab5ddba578cbc9af394[m
+Author: Earl Lamier <77307962+earlblamier@users.noreply.github.com>
+Date:   Thu Feb 27 03:50:23 2025 -0500
+
+    Add files via upload
+
+[33mcommit c695648e01dd979318eb9ece7a7e82f5f6c9b2ba[m
+Author: Earl Lamier <77307962+earlblamier@users.noreply.github.com>
+Date:   Thu Feb 27 03:31:02 2025 -0500
+
+    Add files via upload
+
+[33mcommit def20982812aaef844e9f8d0ab3bee1240c71036[m
+Author: Earl Lamier <77307962+earlblamier@users.noreply.github.com>
+Date:   Thu Feb 27 03:28:37 2025 -0500
+
+    Initial commit
