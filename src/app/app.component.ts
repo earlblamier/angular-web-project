@@ -16,6 +16,7 @@ import { FooterComponent } from './footer/footer.component';
 import { IconGridComponent } from './icon-grid/icon-grid.component';
 import { CardComponent } from './card/card.component';
 import { MainContentComponent } from "./main-content/main-content.component";
+import { AboutComponent } from './about/about.component';
 
 @Component({
   standalone: true, // latest Angular version
@@ -25,7 +26,9 @@ import { MainContentComponent } from "./main-content/main-content.component";
     FooterComponent, 
     IconGridComponent, 
     CardComponent, 
-    MainContentComponent],
+    MainContentComponent,
+    AboutComponent
+  ],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'], // Corrected property name
   encapsulation : ViewEncapsulation.None
