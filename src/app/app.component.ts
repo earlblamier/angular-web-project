@@ -18,18 +18,22 @@ import { CardComponent } from './card/card.component';
 import { MainContentComponent } from "./main-content/main-content.component";
 import { AboutComponent } from './about/about.component';
 import { MapComponent } from './map/map.component';
+import { FeatureLeftComponent } from "./feature-left/feature-left.component";
+import { PreFooterComponent } from './pre-footer/pre-footer.component';
 
 @Component({
   standalone: true, // latest Angular version
   selector: 'app-root',
-  imports: [RouterOutlet, 
-    HeaderComponent, 
-    FooterComponent, 
-    IconGridComponent, 
-    CardComponent, 
+  imports: [RouterOutlet,
+    HeaderComponent,
+    FooterComponent,
+    IconGridComponent,
+    CardComponent,
     MainContentComponent,
     AboutComponent,
-    MapComponent
+    MapComponent, 
+    FeatureLeftComponent,
+    PreFooterComponent
   ],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'], // Corrected property name
