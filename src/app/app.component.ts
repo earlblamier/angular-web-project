@@ -17,6 +17,7 @@ import { IconGridComponent } from './icon-grid/icon-grid.component';
 import { CardComponent } from './card/card.component';
 import { MainContentComponent } from "./main-content/main-content.component";
 import { AboutComponent } from './about/about.component';
+import { MapComponent } from './map/map.component';
 
 @Component({
   standalone: true, // latest Angular version
@@ -27,7 +28,8 @@ import { AboutComponent } from './about/about.component';
     IconGridComponent, 
     CardComponent, 
     MainContentComponent,
-    AboutComponent
+    AboutComponent,
+    MapComponent
   ],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'], // Corrected property name
