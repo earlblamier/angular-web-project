@@ -9,6 +9,7 @@
  * Project: Angular Web Project
  */
 
+/*
 import { Component, ViewEncapsulation } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { HeaderComponent } from './header/header.component';
@@ -42,4 +43,21 @@ import { PreFooterComponent } from './pre-footer/pre-footer.component';
 export class AppComponent {
   title = 'tazkify';
   cardMessage = 'Empowering Communities';
+}
+
+*/
+
+// version 18 Feb 2026
+import { Component } from '@angular/core';
+import { RouterOutlet } from '@angular/router';
+
+@Component({
+  standalone: true,
+  selector: 'app-root',
+  imports: [RouterOutlet],
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.scss'],
+})
+export class AppComponent {
+  title = 'tazkify';
 }
